@@ -1,1 +1,1 @@
-Homework pu_project
+Homework py_project
